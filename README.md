@@ -17,7 +17,4 @@ Business owners often struggle to efficiently manage multiple aspects of their o
   </tr>
 </table>
 
-**More updates will be coming soon!**
-  
---------------------------------------------------------------------------------------------------------------------
-**This project is currently Work in Progress**
+**Update: I have decided to take a much needed break from development of Gate for now. I will return to the development of the application and provide more updates to it when i come back. Don't worry when development resumes many new features and additions will be added towards significant progress of the application! 🚀**
